@@ -1,6 +1,6 @@
 {
-  "name": "vue-socialsharing",
-  "version": "1.0.0",
+  "name": "@smartsolutionsitaly/vue-socialsharing",
+  "version": "1.0.1",
   "deprecated": false,
   "description": "Social Sharing component for Vue.js",
   "author": "Lucio Benini <dev@smartsolutions.it>",

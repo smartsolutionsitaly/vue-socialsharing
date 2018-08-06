@@ -79,6 +79,12 @@
 export default {
 	name: 'social-share',
     props: {
+        title: {
+            type: String
+        },
+        description: {
+            type: String
+        },
         hashtags: {
             type: String
         },
