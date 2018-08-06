@@ -1,0 +1,43 @@
+{
+  "name": "vue-socialsharing",
+  "version": "1.0.0",
+  "deprecated": false,
+  "description": "Social Sharing component for Vue.js",
+  "author": "Lucio Benini <dev@smartsolutions.it>",
+  "homepage": "https://github.com/smartsolutionsitaly/vue-socialsharing",
+  "license": "MIT",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/smartsolutionsitaly/vue-socialsharing/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "vue": "^2.5.2",
+    "vue-social-sharing": "^2.3.3"
+  },
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "socials"
+  ],
+  "files": [
+    "src/components/*"
+  ],
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartsolutionsitaly/vue-socialsharing.git"
+  }
+}
